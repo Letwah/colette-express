@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  font: 14px "courier", Helvetica, Arial, sans-serif;
+}
+h1 {
+  color: rgb(0, 8, 255);
+}
+p {
+  color: #34728a;
+}
+
+a {
+  color: #00b7ff;
+}
+
+img {
+  position: absolute;
+  top: 100px;
+  left: 30px;
+  width: 200px;
+  padding: 20px;
+}
